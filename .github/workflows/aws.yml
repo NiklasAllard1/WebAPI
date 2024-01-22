@@ -1,7 +1,7 @@
 name: Build and push to aws
 
 on:
-  push
+  push:
     branches:
       - main
 
